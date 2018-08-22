@@ -1,0 +1,35 @@
+/* GERAL */
+body {
+    background-image: url(../img/fundo.png);
+    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+/* FONT */
+h1 {
+    color: #5d1277;
+}
+
+p {
+    color: #4f4f4f;
+}
+
+/* SECAO 1 */
+.caixa {
+    background-color: white;
+    width: 40%;
+    margin: 50px auto 0 auto;
+    text-align: center;
+    padding: 100px 0;
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px rgba(0,0,0,0.4);
+}
+
+.redes-sociais img {
+    width: 50px;
+    margin: 10px;
+}
+
+@media (max-width:420px){
+    
+}
